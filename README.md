@@ -48,7 +48,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 📈 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=radical)
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=dark)
 
 ---
 
