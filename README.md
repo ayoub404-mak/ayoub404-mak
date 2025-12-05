@@ -33,7 +33,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ## 💻 Projects
 
 ### 1. University Website | HTML, CSS, PHP, Google Fonts, Google Maps  
-![[Website](https://ayoub404-mak.github.io/universty-project/)](https://img.shields.io/badge/University-Website-blue)  
+![https://ayoub404-mak.github.io/universty-project](https://img.shields.io/badge/University-Website-blue)
 - Fully responsive site with multiple sections (home, courses, campus, facilities, testimonials)  
 - Mobile menu using JavaScript & Flexbox  
 - Optimized layout with Google Fonts & FontAwesome  
