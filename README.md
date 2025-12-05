@@ -48,14 +48,14 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 📈 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-- ✉️ Email: your-email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
+- ✉️ Email: akbbachayoub@gmail.com 
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayoub-akb/)  
 
 ---
 
