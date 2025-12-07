@@ -1,4 +1,4 @@
-# Ayoub Ami – Portfolio & Projects
+# Ayoub  – Portfolio & Projects
 
 Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 months)** in **DevOps, Fullstack, Data Analysis, or Data Science**, either online or onsite. Here you’ll find my projects and experiments in web development, data analysis, and AI.
 
@@ -19,10 +19,17 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+**Tools & IDEs:** 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Workbench](https://img.shields.io/badge/Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
-**Tools & IDEs:** GitHub, VS Code, SSMS, Workbench, Matlab, Shell, Jupyter Notebook  
 **Methodologies:** OOP, UML, Flowcharts  
 **Data & BI:** Tableau, Power BI, Excel  
 **E-Business Tools:** Odoo, Mailchimp  
@@ -48,7 +55,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 📈 GitHub Stats
 
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=dark)
+![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=dark&cache_seconds=7200)
 
 ---
 
