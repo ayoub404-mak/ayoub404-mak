@@ -53,11 +53,6 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 - Dynamic interface updating temperature, location & conditions  
 - Fully responsive design for all devices  
 
----
-
-## 📈 GitHub Stats
-
-![Ayoub's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayoub404-mak&show_icons=true&theme=dark&cache_seconds=7200)
 
 ---
 
