@@ -59,7 +59,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ## 📫 Contact Me
 
 - ✉️ Email: akbbachayoub@gmail.com 
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayoub-akb/)  
+- 🔗 LinkedIn: [linkedin.com/in/ayoub-akb](https://www.linkedin.com/in/ayoub-akb/)  
 
 ---
 
