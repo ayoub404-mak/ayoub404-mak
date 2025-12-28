@@ -35,7 +35,6 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 **Methodologies:** OOP, UML, Flowcharts  
 **Data & BI:** Tableau, Power BI, Excel  
 **E-Business Tools:** Odoo, Mailchimp  
-**AI Tools:** Antigravity, Cursus, Copilot  
 
 ---
 
