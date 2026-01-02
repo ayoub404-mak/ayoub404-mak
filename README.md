@@ -32,9 +32,9 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-**Methodologies:** OOP, UML, Merise 
-**Data & BI:** Tableau, Power BI, Excel  
-**E-Business Tools:** Odoo, Mailchimp  
+**Methodologies:** OOP, UML, Merise     
+**Data & BI:** Tableau, Power BI, Excel    
+**E-Business Tools:** Odoo, Mailchimp    
 
 ---
 
