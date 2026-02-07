@@ -35,9 +35,17 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-**Methodologies:** OOP, UML, Merise     
-**Data & BI:** Tableau, Power BI, Excel, Latex
-**E-Business Tools:** Odoo, Mailchimp    
+
+**Data & BI:** 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+
+**E-Business Tools:** ERP, CRM, Odoo, Mailchimp    
+
+**Methodologies:** OOP, UML, Merise  
 
 ---
 
