@@ -31,10 +31,12 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6C78AF?style=for-the-badge&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 **Methodologies:** OOP, UML, Merise     
-**Data & BI:** Tableau, Power BI, Excel    
+**Data & BI:** Tableau, Power BI, Excel, Latex
 **E-Business Tools:** Odoo, Mailchimp    
 
 ---
