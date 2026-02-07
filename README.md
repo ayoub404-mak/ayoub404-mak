@@ -31,6 +31,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6C78AF?style=for-the-badge&logo=Docker&logoColor=white)
 
 **Methodologies:** OOP, UML, Merise     
 **Data & BI:** Tableau, Power BI, Excel    
