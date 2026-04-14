@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 🛠 Skills
 
-**Languages/Framework:**  
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -14,6 +14,8 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Framework :**
 ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
 
 **Databases :**  
@@ -41,10 +43,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-
-**E-Business Tools:** ERP, CRM, Odoo, Mailchimp    
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 
 **Methodologies:** OOP, UML, Merise, DOM, ETL, Agile
 
@@ -52,18 +51,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 💻 Projects
 
-### 1. University Website | HTML, CSS, PHP, Google Fonts, Google Maps  
-![website](https://img.shields.io/badge/University-Website-blue)
-- Fully responsive site with multiple sections (home, courses, campus, facilities, testimonials)  
-- Mobile menu using JavaScript & Flexbox  
-- Optimized layout with Google Fonts & FontAwesome  
-
-### 2. Weather Website | HTML, CSS, JavaScript, API  
-![Weather](https://img.shields.io/badge/Weather-Website-blueviolet)  
-- Real-time weather data for searched cities  
-- Dynamic interface updating temperature, location & conditions  
-- Fully responsive design for all devices  
-
+### ReadMe under construction for real wolde + deployed Project , thank you for your understanding | patient 
 
 ---
 
