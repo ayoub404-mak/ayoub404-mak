@@ -51,7 +51,7 @@ Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 
 
 ## 💻 Projects
 
-### the ReadMe is under construction for real wolde + deployed Project , thank you for your understanding | patient 
+### the ReadMe is under construction for real world + deployed Project , thank you for your understanding | patient 
 
 ---
 
