@@ -1,6 +1,6 @@
 # Ayoub  – Portfolio & Projects
 
-Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 months)** in **DevOps, Fullstack, Data Analysis, or Data Science**, either online or onsite. Here you’ll find my projects and experiments in web development, data analysis, and AI.
+Welcome to my GitHub! I am a passionate student seeking a **PFE internship (2-3 months)** in **Fullstack**, either online or onsite. Here you’ll find my projects and experiments in web development, data analysis, and AI.
 
 ---
 
